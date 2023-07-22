@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temg-fronthw/static/css/main.46fc7456.css",
+    "main.js": "/temg-fronthw/static/js/main.e7e61cee.js",
+    "index.html": "/temg-fronthw/index.html",
+    "main.46fc7456.css.map": "/temg-fronthw/static/css/main.46fc7456.css.map",
+    "main.e7e61cee.js.map": "/temg-fronthw/static/js/main.e7e61cee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46fc7456.css",
+    "static/js/main.e7e61cee.js"
+  ]
+}
